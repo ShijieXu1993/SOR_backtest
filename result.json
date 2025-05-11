@@ -1,0 +1,26 @@
+{
+  "Tuned_Parameters": {
+    "lambda_over": 0.05,
+    "lambda_under": 0.01,
+    "theta_queue": 0.005
+  },
+  "SmartRouter": {
+    "total_cost": 1113923.0,
+    "avg_fill_price": 222.7846,
+    "savings_vs_bestask_bps": 7.51,
+    "savings_vs_twap_bps": 390.89,
+    "savings_vs_vwap_bps": 2.96
+  },
+  "BestAsk": {
+    "total_cost": 1114760.1999999997,
+    "avg_fill_price": 222.95203999999995
+  },
+  "TWAP": {
+    "total_cost": 1159235.9900000002,
+    "avg_fill_price": 223.0586857802579
+  },
+  "VWAP": {
+    "total_cost": 1114252.2799999998,
+    "avg_fill_price": 222.85045599999995
+  }
+}
